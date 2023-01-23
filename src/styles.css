@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+.option {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  width: 100%;
+  align-items: center;
+}
+
+select {
+  padding: 10px;
+}
